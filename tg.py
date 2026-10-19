@@ -172,7 +172,6 @@ def main() -> None:
 
     print("\n[Completed] All combinations have been checked.")
 
-
 if __name__ == "__main__":
     try:
         main()
